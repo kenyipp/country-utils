@@ -1,6 +1,6 @@
 {
 	"name": "country-utils",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "a set of utils for lookup country information",
 	"main": "index.js",
 	"dependencies": {
